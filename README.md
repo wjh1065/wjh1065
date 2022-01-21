@@ -1,18 +1,8 @@
----
-layout: archive
-permalink: /about/
-title: "About"
-author_profile: true
-toc: true
-toc_sticky: true
-toc_label: "MYSELF"
----
-
-<center>이창석</center>
-
-<center>MAJOR : Image & NLP AI Engineering </center> 
-<center>Korea University</center>
-<center>2511, Sejong-ro, Jochiwon-eup, Sejong-si, Republic of Korea</center>
+## About
+### 이창석
+MAJOR : Image & NLP AI Engineering  
+Korea University  
+2511, Sejong-ro, Jochiwon-eup, Sejong-si, Republic of Korea  
 
 ## Personal Data
 > 1996.08.30 대한민국, 서울특별시, 관악구 출생
