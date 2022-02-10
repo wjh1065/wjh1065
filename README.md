@@ -1,8 +1,8 @@
 ## About
 ### 이창석
 #### MAJOR : Image & NLP AI Engineering  
-#### Korea University  
-#### 2511, Sejong-ro, Jochiwon-eup, Sejong-si, Republic of Korea  
+
+
 
 ## Personal Data
 > 1996.08.30 대한민국, 서울특별시, 관악구 출생
