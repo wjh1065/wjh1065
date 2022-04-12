@@ -4,99 +4,43 @@
 <div align="center">Medical AI Research Engineer from South Korea  
 
 👨‍💻🇰🇷🙇‍♂️</div>  
-  
 
-  
-  
+**About me**
 
-- 🔭 I’m currently working on [Tesser Inc.](https://www.tesser.co.kr)  
-  
+- 💼 Medical AI Research Engineer at [Tesser](https://www.tesser.co.kr)
 
-- 🌱 I’m currently learning Deep Learning in Medical Imaging  
-  
+- 📈 I’m currently learning Deep Learning in Medical Imaging 
 
-- ❓ Ask me about anything related to Deep Learning skills  
-  
+- 💬 Ask me about anything related to Deep Learning skills
 
 - 🤭 Fun fact: I'm a beginner in Deep Learning  
-  
 
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### AI / ML  
-<div align="center">  
-  
-  
-- Tensorflow
-  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-  
-- Pytorch
-  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
-  
-- Keras
-  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
- 
-
-</div>
-
-</td><td valign="top" width="33%">
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg"></code>
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg"></code>
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/keras.png"></code>
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"></code>
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"></code>
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"></code>
 
 
+| <a href="https://github.com/wjh1065/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wjh1065&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Changseok's github stats" /></a> | <a href="https://github.com/wjh1065/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjh1065&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-### Study  
-<div align="center">  
-  
-  
-- Docker
-  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />   
-  
-- AWS
-  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-  
-- Kubernetes
-  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
- 
-
-</div>
-
-</td><td valign="top" width="33%">
-  
-  
-### Other  
-<div align="center">  
-  
-  
-- Python
-  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />    
-  
-- Linux
-  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />    
-  
-- Git
-  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
- 
+#### Main Project Repositories
 
 
-</td></tr></table>  
+<a href="https://github.com/wjh1065/PVC-of-PET-images-using-3D-ResUnet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjh1065&repo=PVC-of-PET-images-using-3D-ResUnet&theme=buefy" />
+</a>
+<a href="https://github.com/wjh1065/Gray-matter-segmentation-of-MR-images-Using-3D-ResUnet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjh1065&repo=Gray-matter-segmentation-of-MR-images-Using-3D-ResUnet&theme=buefy" />
+</a>
+<a href="https://github.com/wjh1065/DeepSORT-with-Bird-Eye-View">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjh1065&repo=DeepSORT-with-Bird-Eye-View&theme=buefy" />
+</a>
+<a href="https://github.com/wjh1065/3D-Patch-Based-Training">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjh1065&repo=3D-Patch-Based-Training&theme=buefy" />
+</a>
 
-<br/>  
-
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wjh1065&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br />
+<br />
