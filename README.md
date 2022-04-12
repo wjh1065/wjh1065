@@ -26,8 +26,8 @@
 <a href="https://github.com/wjh1065/Partial-Volume-Effect-Correction-Algorithm-from-PET-scan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjh1065&repo=Partial-Volume-Effect-Correction-Algorithm-from-PET-scan&theme=buefy" />
 </a>
-<a href="https://github.com/wjh1065/Gray-matter-segmentation-of-MR-images-Using-3D-ResUnet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjh1065&repo=Gray-matter-segmentation-of-MR-images-Using-3D-ResUnet&theme=buefy" />
+<a href="https://github.com/wjh1065/Grey-Matter-Segmentation-Algorithm-from-Brain-MR-images">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjh1065&repo=Grey-Matter-Segmentation-Algorithm-from-Brain-MR-images&theme=buefy" />
 </a>
 <a href="https://github.com/wjh1065/DeepSORT-with-Bird-Eye-View">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjh1065&repo=DeepSORT-with-Bird-Eye-View&theme=buefy" />
