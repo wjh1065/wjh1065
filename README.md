@@ -15,13 +15,7 @@
 
 - 🤭 Fun fact: I'm a beginner in Deep Learning  
 
-<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg"></code>
-<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg"></code>
-<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/keras.png"></code>
-<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"></code>
-<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"></code>
-<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"></code>
-
+<br />
 
 | <a href="https://github.com/wjh1065/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wjh1065&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Changseok's github stats" /></a> | <a href="https://github.com/wjh1065/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjh1065&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
