@@ -17,8 +17,7 @@
 
 <br />
 
-| <a href="https://github.com/wjh1065/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wjh1065&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Changseok's github stats" /></a> | <a href="https://github.com/wjh1065/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjh1065&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+![wjh1065's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjh1065&count_private=true)
 
 #### Main Project Repositories
 
