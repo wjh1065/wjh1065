@@ -11,29 +11,5 @@
 
 - 📈 I’m currently learning Deep Learning in Medical Imaging 
 
-- 💬 Ask me about anything related to Deep Learning skills
+- 💬 Ask me about anything related to Deep Learning skills & Medical Domains
 
-- 🤭 Fun fact: I'm a beginner in Deep Learning  
-
-<br />
-
-![wjh1065's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjh1065&count_private=true)
-
-#### Main Project Repositories
-
-
-<a href="https://github.com/wjh1065/Partial-Volume-Effect-Correction-Algorithm-from-PET-scan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjh1065&repo=Partial-Volume-Effect-Correction-Algorithm-from-PET-scan&theme=buefy" />
-</a>
-<a href="https://github.com/wjh1065/Grey-Matter-Segmentation-Algorithm-from-Brain-MR-images">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjh1065&repo=Grey-Matter-Segmentation-Algorithm-from-Brain-MR-images&theme=buefy" />
-</a>
-<a href="https://github.com/wjh1065/DeepSORT-with-Bird-Eye-View">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjh1065&repo=DeepSORT-with-Bird-Eye-View&theme=buefy" />
-</a>
-<a href="https://github.com/wjh1065/3D-Patch-Based-Training">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjh1065&repo=3D-Patch-Based-Training&theme=buefy" />
-</a>
-
-<br />
-<br />
