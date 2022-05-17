@@ -11,5 +11,4 @@
 
 - 📈 I’m currently learning Deep Learning in Medical Imaging 
 
-- 💬 Ask me about anything related to Deep Learning skills & Medical Domains
 
