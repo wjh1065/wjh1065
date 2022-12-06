@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Changseok Lee! 👋<br><br>Medical AI Research Engineer from South Korea<br><br>💼 Medical AI Research Engineer at Tesser<br><br>📈 I’m currently learning Deep Learning in Medical Imaging
+Hi there, I'm Changseok Lee! 👋<br><br>Medical AI Research Engineer from South Korea<br><br>💼 Medical AI Research Engineer at Tesser<br><br>📈 I’m currently learning Deep Learning in Medical Imaging & Web Development
 
 
 # 💻 Tech Stack:
