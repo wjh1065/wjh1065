@@ -5,7 +5,7 @@
 <p align="center">🔭 I’m currently working on <a href="https://www.tesser.co.kr/">Tesser</a></p>
 <p align="center">🌱 I’m currently learning <strong>Deep Learning in Medical Imaging & Web Development</strong></p>
 <p align="center">📫 How to reach me <strong>wjh1065@gmail.com</strong></p>
-<p align="center">📄 Know about my experiences <a href="https://www.linkedin.com/in/changseok-lee">Resume</a></p>
+<p align="center">📄 Know about my experiences <a href="https://whiletrue-log.vercel.app/resume">Resume</a></p>
 
 
 <h3 align="center">Skills:</h3>
